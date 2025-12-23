@@ -6,13 +6,13 @@ h1{
     border-radius:20px;
     text-align: center;
 }
-p{
+pre{
     border-left:3px dotted red;
     border-right:3px dashed blue;
     border-bottom:2px solid gray;
     border-top:2px solid green;
     border-radius:20px;
 }
-p{
+pre{
     text-align: center;
 }
