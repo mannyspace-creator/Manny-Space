@@ -1,0 +1,18 @@
+h1{
+    border-left:2px solid red;
+    border-top:2px solid blue;
+    border-bottom:2px solid green;
+    border-right:2px solid purple;
+    border-radius:20px;
+    text-align: center;
+}
+p{
+    border-left:3px dotted red;
+    border-right:3px dashed blue;
+    border-bottom:2px solid gray;
+    border-top:2px solid green;
+    border-radius:20px;
+}
+p{
+    text-align: center;
+}
