@@ -1,0 +1,15 @@
+header{
+    text-shadow:3px 3px 5px chartreuse,-3px -3px 5px hsl(251, 88%, 39%);
+    text-align: center;
+    border-left:2px dotted red;
+    border-top:2px dashed rgb(76, 225, 22);
+    border-bottom:2px solid rgb(131, 13, 222);
+    border-right:2px dotted rgb(194, 214, 15);
+    border-radius:20px;
+}
+#box1{ width: 200px;
+    height: 100px;
+    box-shadow:3px 3px 5px;
+    background-color: aquamarine;
+
+}
