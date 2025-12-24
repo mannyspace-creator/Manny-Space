@@ -1,0 +1,17 @@
+body{
+    margin:0px;
+}
+.box{width:100px;
+    height:100px;
+    border:5px solid black;
+    box-shadow:3px 3px 5px chartreuse,3px 3px 5px rgb(96, 14, 237);
+}
+#box1{
+    margin-left:auto;
+    color: brown;
+    background-color: blue;
+    margin: auto;
+}
+#box2{
+    margin-left: auto;
+}
