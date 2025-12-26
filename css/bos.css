@@ -1,8 +1,0 @@
-input:focus{
-    background-color:hsl(75, 93%, 60%)
-}
-button:hover{
-font-size: 1.1em;
-background-color: aqua;
-color: blueviolet;
-}
